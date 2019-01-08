@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/airbuddy/precache-manifest.772b225b06bd1526caf5856c07aa9968.js"
+  "/airbuddy/precache-manifest.5738f427df93eee9267fa47b8916e606.js"
 );
 
 workbox.clientsClaim();
